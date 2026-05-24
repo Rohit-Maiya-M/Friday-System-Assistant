@@ -1,0 +1,76 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+.venv310/
+env/
+
+# Node
+
+node_modules/
+
+# Electron / React
+
+dist/
+build/
+
+# Environment
+
+.env
+
+# Runtime files
+
+backend/runtime/*.json
+
+# Temporary audio
+
+backend/voice/sample-audio/temp.wav
+backend/voice/sample-audio/temp.wav.txt
+
+# VSCode
+
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# AI Models
+
+# GGUF models
+
+*.gguf
+
+# Whisper models
+
+*.bin
+
+# Entire Vosk model folders
+
+backend/voice/vosk-model*
+
+# whisper.cpp
+backend/voice/whisper.cpp/
+
+# backend/voice/whisper.cpp/
+
+# Screenshots
+
+screenshots/
+
+# Temporary
+
+temp/
+cache/
+
+# Electron
+
+frontend/out/
+frontend/release/

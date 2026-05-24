@@ -1,0 +1,22 @@
+{
+  "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "copilot": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\mscopilot.exe",
+  "edge": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "store": "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\arm64\\StoreUploader.exe",
+  "brave": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "notion": "C:\\Users\\Rohit Maiya M\\AppData\\Local\\Programs\\Notion\\Notion.exe",
+  "bing": "C:\\Program Files (x86)\\HP\\HP Support Framework\\Resources\\BingPopup\\BingPopup.exe",
+  "rstudio": "C:\\Program Files\\RStudio\\rstudio.exe",
+  "postman": "C:\\Users\\Rohit Maiya M\\AppData\\Local\\Postman-Agent\\Postman Agent.exe",
+  "r": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "intellij": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3.4.1\\bin\\idea64.exe",
+  "android studio": "C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+  "pgadmin": "C:\\Program Files\\PostgreSQL\\17\\pgAdmin 4\\runtime\\pgAdmin4.exe",
+  "git bash": "C:\\Program Files\\Git\\git-bash.exe",
+  "canva": "C:\\Users\\Rohit Maiya M\\AppData\\Local\\Programs\\Canva\\Canva.exe",
+  "kaspersky": "C:\\Program Files (x86)\\Kaspersky Lab\\Kaspersky 21.24\\avpui.exe",
+  "code": "C:\\Users\\Rohit Maiya M\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+  "opera": "C:\\Users\\Rohit Maiya M\\AppData\\Local\\Programs\\Opera GX\\opera.exe",
+  "": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+  "rome": "C:\\Program Files\\Google\\Chrome Dev\\Application\\chrome.exe"
+}
