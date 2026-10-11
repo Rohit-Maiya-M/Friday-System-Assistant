@@ -20,10 +20,6 @@ build/
 
 .env
 
-# Runtime files
-
-backend/runtime/*.json
-
 # Temporary audio
 
 backend/voice/sample-audio/temp.wav
@@ -58,8 +54,6 @@ backend/voice/vosk-model*
 
 # whisper.cpp
 backend/voice/whisper.cpp/
-
-# backend/voice/whisper.cpp/
 
 # Screenshots
 

@@ -15,9 +15,6 @@ from utils.voice_state import (
     update_voice_state
 )
 
-
-# VOSK_MODEL_PATH = r"backend\voice\vosk-model-en-us-0.22"
-
 VOSK_MODEL_PATH = (
     r"backend\voice\vosk-model-small-en-us-0.15"
 )
@@ -27,7 +24,7 @@ WHISPER_PATH = (
 )
 
 WHISPER_MODEL = (
-    r"backend\voice\whisper.cpp\models\ggml-base.en.bin"
+    r"backend\voice\whisper.cpp\ggml-base.en.bin"
 )
 
 TEMP_AUDIO = (
